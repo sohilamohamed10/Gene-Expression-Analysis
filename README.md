@@ -1,2 +1,0 @@
-# sohila
-data structure team
